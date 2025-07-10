@@ -25,7 +25,7 @@
     "href": "index.html#workshop-materials",
     "title": "Teaching statistical learning: An active approach using R and {tidymodels}",
     "section": "Workshop materials",
-    "text": "Workshop materials\nYou can access the materials either through the Google drive folder or the Github repo. Choose what you’re most comfortable with. We recommend creating a new RStudio project (.Rproj) for the workshop so that it’s easy to store the data and .Rmd files in the same directory.\n\nSlides\nGoogle drive folder with all materials: https://tinyurl.com/USCOTS2025\nGithub repo"
+    "text": "Workshop materials\nYou can access the materials either through the Google drive folder or the Github repo. Choose what you’re most comfortable with. We recommend creating a new RStudio project (.Rproj) for the workshop so that it’s easy to store the data and .Rmd files in the same directory.\n\nSlides\nGoogle drive folder\nGithub repo"
   },
   {
     "objectID": "index.html#resources",

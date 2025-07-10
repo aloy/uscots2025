@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Teaching statistical learning: An active approach using R and {tidymodels}"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  cache: true
+  freeze: auto  # re-render only when source changes

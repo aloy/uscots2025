@@ -1,0 +1,502 @@
+year_aired,imdb,monster_real,title,suspects_amount
+1969,8.1,fake,What a Night for a Knight,2
+1969,8.1,fake,A Clue for Scooby Doo,2
+1969,8,fake,Hassle in the Castle,0
+1969,7.8,fake,Mine Your Own Business,2
+1969,7.5,fake,Decoy for a Dognapper,1
+1969,8.4,fake,What the Hex Going On?,2
+1969,7.6,fake,Never Ape an Ape Man,1
+1969,8.2,fake,Foul Play in Funland,2
+1969,8.1,fake,The Backstage Rage,1
+1969,8,fake,Bedlam in the Big Top,1
+1969,8.5,fake,A Gaggle of Galloping Ghosts,1
+1969,8.2,fake,"Scooby-Doo and a Mummy, Too",1
+1969,8.4,fake,Which Witch is Which,2
+1969,8.1,fake,Go Away Ghost Ship,2
+1969,8.4,fake,Spooky Space Kook,1
+1970,8.7,fake,A Night of Fright Is No Delight,3
+1970,8,fake,That's Snow Ghost,3
+1970,8.3,fake,Nowhere to Hyde,2
+1970,7.8,fake,Mystery Mask Mix-Up,1
+1970,7.7,fake,Scooby's Night with a Frozen Fright,2
+1970,8.5,fake,"Jeepers, It's the Creeper",2
+1970,8.4,fake,Haunted House Hang-Up,1
+1970,7.9,fake,A Tiki Scare Is No Fair,1
+1970,8.2,fake,Who's Afraid of the Big Bad Werewolf?,0
+1970,7.9,fake,Don't Fool with a Phantom,3
+1972,6.9,fake,The Ghastly Ghost Town,2
+1972,7.8,fake,The Dynamic Scooby-Doo Affair,1
+1972,7.9,fake,Wednesday Is Missing,2
+1972,7.9,fake,The Frickert Fracas,4
+1972,7.9,fake,Guess Who's Knott Coming to Dinner?,1
+1972,7.7,fake,A Good Medium Is Rare,4
+1972,7.8,fake,Sandy Duncan's Jekyll and Hyde,4
+1972,8.5,fake,The Secret of Shark Island,2
+1972,7.7,fake,The Spooky Fog of Juneberry,2
+1972,8.3,fake,The Ghost of Bigfoot,4
+1972,7.6,fake,The Ghost of the Red Baron,3
+1972,7.4,fake,The Ghostly Creep from the Deep,1
+1972,7.8,fake,The Haunted Horseman of Hagglethorn Hall,4
+1972,7.6,fake,The Phantom of the Country Music Hall,2
+1972,7.2,fake,The Caped Crusader Caper,2
+1972,7.9,fake,The Lochness Mess,4
+1973,7.4,fake,The Mystery of Haunted Island,2
+1973,7.9,fake,The Haunted Showboat,3
+1973,7.5,real,Mystery in Persia,3
+1973,7.4,fake,The Spirited Spooked Sports Show,3
+1973,7.6,fake,The Exterminator,1
+1973,7.3,fake,The Weird Winds of Winona,2
+1973,7.8,fake,The Haunted Candy Factory,2
+1973,7.6,fake,The Haunted Carnival,0
+1976,7.6,fake,High Rise Hair Raiser,4
+1976,7.2,real,Everyone Hyde!,2
+1976,7.4,fake,The Fiesta Host is an Aztec Ghost,4
+1976,6.9,real,"What Now, Lowbrow?",1
+1976,7.5,fake,The Gruesome Game of the Gator Ghoul,4
+1976,8,fake,Whatta Shocking Ghost,3
+1976,8,fake,The Headless Horseman of Halloween,4
+1976,7.6,fake,Scared a Lot in Camelot,3
+1976,8.2,fake,The Harum-Scarum Sanitarium,2
+1976,7.7,fake,The No-Face Zombie Chase Case,5
+1976,7,fake,Mamba Wamba and the Voodoo Hoodoo,5
+1976,7.4,fake,A Frightened Hound Meets Demons Underground,4
+1976,6.3,fake,The Wizard of Ooze,0
+1976,6.8,fake,A Bum Steer for Scooby,5
+1976,7.2,fake,There's a Demon Shark in the Foggy Dark,4
+1976,7.3,fake,"Scooby-Doo, Where's the Crew?",2
+1976,6.8,fake,The Ghost That Sacked the Quarterback,6
+1976,7.7,fake,The Ghost of the Bad Humor Man,2
+1976,7.5,fake,The Spirits of '76,3
+1977,7.4,fake,The Curse of the Viking Lake,3
+1977,8.2,fake,Vampire Bats and Scaredy Cats,5
+1977,7.4,fake,"Hang in There, Scooby-Doo",2
+1977,7.9,fake,The Chiller Diller Movie Thriller,6
+1977,7.2,real,Scotland,0
+1977,7.4,fake,The Spooky Case of the Grand Prix Race,4
+1977,8.1,fake,The Ozrk Witch,3
+1977,7.7,fake,Creepy Cruise,2
+1977,7.4,fake,The Creepy Heap from the Deep,2
+1977,6,real,The Himalayas,0
+1977,6.3,real,Ireland,0
+1977,6.9,real,Hawaii,0
+1978,7.5,fake,Watch Out! The Willawa!,1
+1978,6.7,real,Caribbean,0
+1978,7.3,fake,A Creepy Tangle in the Bermuda Triangle,2
+1978,7.1,fake,A Scary Night with a Snow Beast Fright,3
+1978,6.6,real,South America,0
+1978,6.6,real,Transylvania,0
+1978,8,fake,To Switch a Witch,3
+1978,7.6,fake,The Tar Monster,3
+1978,6.5,real,Atlantis,0
+1978,7.7,fake,A Highland Fling with a Monstrous Thing,3
+1978,7.7,fake,The Creepy Case of Old Iron Face,3
+1978,7.2,fake,"Jeepers, It's the Jaguaro!",4
+1978,8,fake,Make a Beeline Away from that Feline,3
+1978,7.5,fake,The Creepy Creature of Vulture's Claw,4
+1978,7.5,fake,The Diabolical Disc Demon,6
+1978,7.5,fake,Scooby's Chinese Fortune Kooky Caper,3
+1978,7.5,fake,A Menace in Venice,4
+1978,7.2,fake,Don't Go Near the Fortress of Fear,5
+1978,6.8,fake,The Warlock of Wimbledon,4
+1978,7.1,fake,The Beast is Awake in Bottomless Lake,4
+1979,7.6,fake,The Scarab Lives!,4
+1979,7.6,fake,The Night Ghoul of Wonderworld,4
+1979,7.6,fake,Strange Encounters of a Scooby Kind,3
+1979,7.4,fake,The Neon Phantom of the Roller Disco!,3
+1979,7.5,fake,"Shiver and Shake, That Demon's a Snake",4
+1979,7.4,fake,The Scary Sky Skeleton,4
+1979,7.5,fake,The Demon of the Dugout,3
+1979,7.3,fake,The Hairy Scare of the Devil Bear,4
+1979,7.6,fake,Twenty Thousand Screams Under the Sea,2
+1979,8,fake,I Left My Neck in San Francisco,3
+1979,7.2,fake,When You Wish Upon a Star Creature,4
+1979,7.7,fake,"The Ghoul, the Bat and the Ugly",4
+1979,7.5,fake,Rocky Mountain Yiiiii!,3
+1979,7.3,fake,The Sorcerer's a Menace,4
+1979,7.5,fake,"Lock the Door, It's a Minotaur!",3
+1980,7.1,real,A Close Encounter with a Strange Kind,0
+1980,7.1,real,A Fit Night Out for Bats,0
+1980,7.1,fake,The Chinese Food Factory,0
+1980,7.2,real,Scooby's Desert Dilemma,0
+1980,7.2,real,The Old Cat and Mouse Game,0
+1980,7.2,real,Mummy's the Word,0
+1980,7.1,real,Scooby's Fantastic Island,0
+1980,6.8,real,Long John Scrappy,0
+1980,6.7,real,Swamp Witch,0
+1980,7,real,Sir Scooby and the Black Knight,0
+1980,6.7,real,Waxworld,0
+1980,7,fake,Scooby in Wonderland,0
+1980,7,real,South Seas Scare,0
+1980,7,real,Alaskan King Coward,0
+1981,6.7,real,"Et Tu, Scoob?",1
+1981,6.7,real,Soggy Bog Scooby,0
+1981,7,real,Moonlight Madness,1
+1981,7.1,real,Scooby at the Center of the World,0
+1981,7.1,fake,Scooby's Trip to Ahz,0
+1981,7.2,real,A Fright at the Opera,0
+1981,7.1,real,Robot Ranch,0
+1981,7.1,real,Surprised Spies,0
+1981,7.2,real,The Invasion of the Scooby Snatchers,0
+1981,7.4,fake,Scooby-Nocchio,0
+1981,7.4,real,Lighthouse Keeper Scooby,0
+1981,7.4,real,Scooby's Roots,1
+1981,7.2,real,Scooby's Escape from Atlantis,0
+1981,7.2,real,Excalibur Scooby,0
+1981,7.1,real,Scooby Saves the World,0
+1981,7.1,real,Rickshaw Scooby,0
+1981,7.2,real,Scooby's Luck of the Irish,0
+1981,7.1,real,Scooby's House of Mystery,0
+1981,7.1,fake,Sweet Dreams Scooby,0
+1981,7.1,real,Scooby-Doo 2000,0
+1981,7.1,real,Punk Rock Scooby,0
+1981,7.4,real,Canine to Five,1
+1981,7.1,real,Hard Hat Scooby,0
+1981,7.1,real,Hothouse Scooby,1
+1981,7.1,real,Tenderbigfoot,0
+1981,7.1,real,Scooby and the Beanstalk,0
+1982,7.1,fake,Catfish Burglar Caper,1
+1982,7.3,real,Movie Monster Menace,2
+1982,7.4,fake,Comic Book Caper,2
+1982,7.1,real,Scooby-Doo and Genie-Poo,0
+1982,7.2,real,Close Encounter of the Worst Kind,0
+1982,7.2,fake,Captain Canine Caper,1
+1982,7,fake,The Incredible Cat Lady Caper,0
+1982,7.1,real,One Million Years Before Lunch,0
+1982,7.4,real,Where's the Wolf,0
+1982,6.8,fake,Snow Job Too Small,1
+1983,7.4,fake,Scooby the Barbarian,2
+1983,7.4,fake,No Sharking Zone,2
+1983,7.5,real,Scoobygeist,0
+1983,7.5,fake,The Quagmire Quake Caper,4
+1983,7.5,fake,Hound of the Scoobyvilles,2
+1983,7.5,fake,The Dinosaur Deception,1
+1983,7.7,fake,The Creature Came from The Chemlab,3
+1983,7.7,fake,"No Thanks, Masked Manx",3
+1983,7.2,fake,Scooby of the Jungle,2
+1983,7.2,fake,"Scooby-Doo and Cyclops, Too",3
+1983,7.5,fake,Scooby Roo,3
+1983,7.3,real,Wizards and Warlocks,1
+1983,7.3,fake,Scoobsie,3
+1983,7.1,fake,The Crazy Carnival Caper,3
+1983,7.4,fake,Scooby and the Minotaur,2
+1983,7.4,fake,Scooby Pinch Hits,4
+1983,7.2,fake,The Fall Dog,5
+1983,7.2,fake,The Scooby Coupe,3
+1983,6.5,real,Who's Minding the Monster,1
+1983,6.5,fake,Scooby ala Mode,3
+1983,6.5,fake,Where's Scooby-Doo?,4
+1983,6.5,fake,Wedding Bell Boos!,7
+1984,7.2,fake,"Happy Birthday, Scooby-Doo",4
+1984,7.2,fake,Scooby's Peep-Hole Pandemonium,3
+1984,7.2,fake,The Hand of Horror,5
+1984,7.5,fake,Scoo-Be or Not Scoo-Be?,3
+1984,7.5,fake,The Stoney Glare Stare,4
+1984,7,fake,Mission: Un-Doo-Able,3
+1984,7,fake,The Bee Team,3
+1984,7.1,fake,Doom Service,3
+1984,6.9,fake,Ghost of the Ancient Astronauts,4
+1984,7.2,fake,The Night of Living Toys,3
+1984,7.2,fake,South Pole Vault,4
+1984,8,fake,A Halloween Hassle at Dracula's Castle,4
+1984,7.5,fake,A Night Louse at the White House,6
+1984,7.3,fake,Showboat Scooby,3
+1984,7.6,fake,Sherlock Doo,6
+1984,7,fake,A Scarey Duel with a Cartoon Ghoul,4
+1984,7,fake,E*I*E*I*O,4
+1984,7.9,fake,The Nutcracker Scoob,5
+1985,7.7,real,To All the Ghouls I've Loved Before,2
+1985,7.6,real,Scoobra Kadoobra,2
+1985,7.3,real,Me and My Shadow Demon,2
+1985,7.2,real,Reflections in the Ghoulish Eye,4
+1985,7.9,real,That's Monstertainment,2
+1985,7.5,real,Ship of Ghouls,2
+1985,7.6,real,A Spooky Little Ghoul Like You,1
+1985,7.1,real,When You Witch Upon a Star,1
+1985,7.4,real,It's a Wonderful Scoob,1
+1985,7.7,real,Scooby in Kwacky Land,3
+1985,7.4,real,Coast-to-Ghost,2
+1985,7.4,real,The Ghouliest Show on Earth,1
+1985,7.4,real,Horror-Scope Scoob,1
+1987,7.1,fake,Scooby-Doo Meets the Boo Brothers,4
+1988,7.3,fake,A Bicycle Built for Boo,2
+1988,7.5,fake,The Sludge Monster from the Earth's Core,2
+1988,8,fake,The Schnoock Who Took My Comic Book,3
+1988,7.5,fake,Wanted Cheddar Alive,3
+1988,7.4,fake,For Letter or Worse,4
+1988,7.6,fake,The Babysitter from Beyond,2
+1988,6.9,real,Scooby-Doo and the Ghoul School,17
+1988,7.8,fake,Snow Place Like Home,3
+1988,7.7,fake,"Now Museum, Now You Don't",3
+1988,7,fake,Scooby Dude,3
+1988,7.5,fake,Ghost Who's Coming to Dinner,5
+1988,6.9,real,Scooby-Doo! and the Reluctant Werewolf,0
+1988,6.9,fake,The Story Stick,3
+1988,7.2,fake,Robopup,3
+1988,7.5,fake,Lights...Camera...Monster,3
+1989,7.7,fake,Curse of the Collar,3
+1989,7.7,fake,The Return of Commander Cool,4
+1989,7.8,fake,The Spirit of Rock'n Roll,4
+1989,7.5,fake,Chickenstein Lives,4
+1989,7.6,fake,Night of the Living Burger,4
+1989,7.7,fake,The Computer Walks Among Us,5
+1989,7.8,fake,"Terror, Thy Name is Zombo",5
+1990,7.1,fake,Night of the Boogey Biker,2
+1990,7.1,fake,Dawn of the Spooky Shuttle Scare,3
+1990,6.9,fake,Horror of the Haunted Hairpiece,4
+1990,7.2,fake,Wrestle Maniacs,8
+1991,7.2,fake,The Were-Doo of Doo Manor,2
+1991,6.6,fake,The Ghost of Mrs. Shusham,3
+1991,7.2,fake,Mayhem of the Moving Mollusk,4
+1997,8.4,fake,Bravo Dooby-Doo,1
+1998,7.8,real,Scooby-Doo on Zombie Island,6
+1999,7.3,real,Scooby-Doo and the Witch's Ghost,4
+1999,7.4,fake,The Scooby-Doo Project,7
+2000,6.9,fake,Scooby-Doo and the Alien Invaders,10
+2001,7,real,Scooby-Doo and the Cyber Chase,4
+2001,7.2,fake,Night of the Living Doo,2
+2002,5.1,real,Scooby-Doo,11
+2002,8.1,fake,Shaggy Busted,2
+2002,7.5,fake,There's No Creature Like Snow Creature,6
+2002,7.4,fake,3-D Struction,3
+2002,7.6,fake,Space Ape and the Cape,4
+2002,7.7,fake,Big Scare in the Big Easy,4
+2002,7.6,fake,"It's Mean, It's Green, It's the Mystery Machine",5
+2002,7.5,fake,Riva Ras Regas,6
+2002,7.7,fake,Roller Ghoster Ride,5
+2002,7.1,fake,"Safari, So Goodie!",5
+2002,7.1,fake,She Sees Sea Monsters by the Sea Shore,4
+2002,7.5,fake,A Scooby-Doo! Christmas,4
+2003,7.7,fake,Toy Scary Boo,4
+2003,7.5,fake,Lights! Camera! Mayhem!,5
+2003,7.1,fake,Pompii and Circumstance,4
+2003,6.6,fake,Scooby-Doo! and the Legend of the Vampire,10
+2003,7.3,fake,The Unnatural,5
+2003,7.2,fake,Big Appetite in Little Tokyo,3
+2003,7.6,fake,Mummy Scares Best,3
+2003,7.4,fake,The Fast and the Wormious,5
+2003,6.5,fake,Scooby-Doo! and the Monster of Mexico,9
+2003,7.5,real,High-Tech House of Horrors,6
+2003,7.4,fake,The Vampire Strikes Back,3
+2003,7.6,fake,A Scooby-Doo Halloween,4
+2003,7.2,fake,Homeward Hound,5
+2004,7.3,fake,The San Franpsycho,5
+2004,7.5,fake,Simple Plan and the Invisible Madman,9
+2004,7.5,fake,Recipe for Disaster,4
+2004,7.5,fake,Large Dragon at Large,5
+2004,7.4,fake,Uncle Scooby and Antarctica,5
+2004,7.2,fake,"New Mexico, Old Monster",5
+2004,5.1,real,Scooby-Doo 2: Monsters Unleashed,5
+2004,7.4,fake,It's All Greek to Scooby,4
+2004,6.7,fake,Scooby-Doo! and the Loch Ness Monster,8
+2005,8,fake,Fright House of a Lighthouse,3
+2005,7.2,fake,"Go West, Young Scoob",3
+2005,6.4,fake,"Aloha, Scooby-Doo!",7
+2005,7.5,fake,A Scooby-Doo Valentine,5
+2005,7.4,fake,Wrestle Maniacs,9
+2005,7.5,fake,Ready to Scare,4
+2005,7.3,fake,Farmed & Dangerous,4
+2005,7,fake,Diamonds Are a Ghoul's Best Friend,6
+2005,7.6,fake,A Terrifying Round with a Menacing Metallic Clown,4
+2005,7.5,fake,Camp Comeoniwannascareya,6
+2005,7.4,fake,Block-Long Hong Kong Terror,5
+2005,7.3,fake,"Gentlemen, Start Your Monsters!",5
+2005,7.4,fake,Gold Paw,5
+2005,7.5,real,Reef Grief!,5
+2005,6.7,fake,Scooby-Doo! in Where's my Mummy?,7
+2006,7.4,fake,E-Scream,5
+2006,6.7,fake,Scooby-Doo! Pirates Ahoy!,5
+2006,6.1,real,Shags to Riches,0
+2006,5,real,More Fondue for Scooby-Doo,1
+2006,6,real,High Society Scooby,4
+2006,5.9,real,Party Arty,1
+2006,5.9,real,Smart House,1
+2006,5.5,real,Lightning Strikes Twice,0
+2007,5.8,real,Don't Feed the Animals,1
+2007,6.9,real,Mysterty of the Missing Mystery Solvers,9
+2007,5.1,real,Chefs of Steel,1
+2007,6.1,real,Almost Ghosts,1
+2007,6.1,real,Pole to Pole,0
+2007,5.9,real,Big Trouble,0
+2007,5.1,real,Operation Dog and Hippy Boy,0
+2007,6.7,fake,"Chill Out, Scooby-Doo!",6
+2007,5.3,real,Shaggy and Scooby World,0
+2007,5.2,real,Almost Purr-fect,0
+2007,5.9,real,Inside Job,8
+2007,5.5,real,Zoinksman,0
+2007,5.4,real,The Many Faces of Evil,0
+2007,5.6,real,Crusin' for a Brusin',0
+2007,5.5,real,There's a Doctor in the House,1
+2008,5.4,real,Super Scary Movie Night,0
+2008,4.8,real,Runaway Robi,1
+2008,4.6,real,Don't Get a Big Head,0
+2008,6.2,real,Scooby Dudes,0
+2008,5.1,real,Zoinks the Wonder Dog,0
+2008,5.8,real,Uncle Albert Alert,0
+2008,6.4,real,Scooby-Doo! and the Goblin King,11
+2009,6.5,fake,Scooby-Doo! and the Samurai Sword,10
+2009,5.3,real,Scooby-Doo! The Mystery Begins,6
+2010,7.1,fake,Scooby-Doo! Abracadabra-Doo,6
+2010,7.9,fake,Beware the Beast From Below,2
+2010,7.8,fake,The Creeping Creatures,3
+2010,7.7,fake,The Secret of the Ghost Rig,2
+2010,7.7,fake,Revenge of the Man Crab,2
+2010,8,fake,The Song of Mystery,2
+2010,8.5,fake,The Legend of Alice May,1
+2010,8.2,fake,In Fear of the Phantom,2
+2010,7.8,fake,The Grasp of the Gnome,3
+2010,7.6,fake,Battle of the Humungonauts,3
+2010,7.3,fake,Scooby-Doo! Camp Scare,8
+2010,8.2,fake,Howl of the Fright Hound,3
+2010,8.1,fake,The Secret Serum,3
+2010,8.4,fake,The Shrieking Madness,5
+2010,8,fake,When the Cicada Calls,5
+2011,4.9,real,Scooby-Doo! Curse of the Lake Monster,4
+2011,8.2,fake,Mystery Solvers Club State Finals,6
+2011,7.7,fake,The Wild Brood,6
+2011,8.2,fake,Where Walks Aphrodite,1
+2011,8.8,real,Escape from Mystery Manor,0
+2011,8.2,fake,The Dragon's Secret,3
+2011,8.5,fake,Nightfright,3
+2011,8.1,fake,The Siren's Song,5
+2011,8.2,fake,Menace of the Manticore,3
+2011,8.1,fake,Attack of the Headless Horror,3
+2011,8.6,fake,A Haunting in Crystal Cove,2
+2011,8.2,fake,Dead Justice,3
+2011,8.8,fake,Pawn of Shadows,3
+2011,9.2,fake,All Fear the Freak,3
+2011,6.8,fake,Scooby-Doo! Legend of the Phantosaur,7
+2012,6.5,fake,Scooby-Doo! Music of the Vampire,7
+2012,6.9,fake,Scooby-Doo! Spooky Games,4
+2012,8.5,fake,The Night the Clown Cried,1
+2012,7.9,fake,The House of the Nightmare Witch,2
+2012,8.4,fake,The Night the Clown Cried II - Tears of Doom,2
+2012,8.2,fake,Web of the Dreamweaver!,4
+2012,8.4,fake,The Hodag of Horror,3
+2012,7.7,fake,Art of Darkness,6
+2012,8.2,fake,The Gathering Gloom,5
+2012,8.3,fake,Night on Haunted Mountain,3
+2012,8.3,fake,Grrim Judgment,3
+2012,9.1,fake,Night Terrors,3
+2012,8.7,real,The Midnight Zone,2
+2012,8.2,fake,Scarebear,2
+2012,8.9,fake,Wrath of the Krampus,1
+2012,7.6,fake,Heart of Evil,0
+2012,8.6,fake,Theater of Doom,3
+2012,6.9,fake,Big Top Scooby-Doo!,9
+2012,7,fake,Scooby-Doo! Haunted Holidays,5
+2013,6.8,fake,Scooby-Doo! Mask of the Blue Falcon,8
+2013,8,fake,Aliens Among Us,0
+2013,8.3,fake,The Horrible Herd,4
+2013,8,fake,Dance of the Undead,2
+2013,7.8,fake,The Devouring,3
+2013,8.3,fake,Stand and Deliver,2
+2013,8.9,fake,The Man in the Mirror,0
+2013,8.9,fake,Nightmare in Red,2
+2013,8.4,fake,Dark Night of Hunters,2
+2013,8.7,fake,Gates of Gloom,1
+2013,9,real,Through the Curtain,0
+2013,9.3,real,Come Undone,0
+2013,5.1,fake,Scooby-Doo Adventure: The Mystery Map!,5
+2013,7.1,fake,Scooby-Doo! Stage Fright,19
+2013,7.3,fake,Scooby-Doo! and the Spooky Scarecrow,9
+2013,6.5,fake,Scooby-Doo! Mecha Mutt Menace,4
+2014,6.3,fake,Scooby-Doo! Wrestlemania Mystery,9
+2014,6.6,fake,Scooby-Doo! Ghastly Goals!,5
+2014,6.7,fake,Scooby-Doo! Frankencreepy,6
+2015,6.5,fake,Scooby-Doo! Moon Monster Madness,8
+2015,7.1,fake,Scooby-Doo! and the Beach Beastie,4
+2015,6.5,real,Scooby-Doo! KISS: Rock and Roll Mystery,6
+2015,7.9,fake,Mystery 101,3
+2015,7.2,fake,Game of Chicken,3
+2015,7.4,fake,All Pawns on Deck,4
+2015,7.3,fake,Poodle Justice,4
+2015,7.3,fake,Grand Scam,3
+2015,7.6,fake,Trading Chase,3
+2015,7.5,fake,"Be Quiet, Scooby-Doo!",2
+2015,8.2,fake,Party Like It's 1899,5
+2015,7.4,fake,Screama Donna,4
+2015,7.5,fake,Kitchen Frightmare,3
+2015,7.5,fake,"Me, Myself, and A.I.",3
+2015,7.4,fake,Area 51 Adjacent,2
+2015,7.5,fake,"Where There's a Will, There's a Wraith",4
+2015,6.6,fake,Scooby-Doo! Knight Time Terror,6
+2015,7.4,fake,Scary Christmas,4
+2015,7.7,fake,"If You Can't Scooby-Doo the Time,Don't Scooby-Doo the Crime",2
+2016,7.8,fake,Gremlin on a Plane,3
+2016,7.9,fake,Sorcerer Snacks Scare,4
+2016,8.2,fake,Saga of the Swamp Beast,3
+2016,7.5,fake,"Be Cold, Scooby-Doo!",3
+2016,5.9,fake,LEGO Scooby-Doo! Haunted Hollywood,5
+2016,7.4,fake,Giant Problems,3
+2016,7.4,fake,Eating Crow,4
+2016,6.2,fake,Scooby-Doo! and WWE: Curse of the Speed Demon,20
+2017,6.8,fake,Scooby-Doo! Shaggy's Showdown,15
+2017,7.2,fake,I Scooby Dooby Do,4
+2017,7.6,fake,El Bandito,3
+2017,7.2,fake,Into the Mouth Madcap,4
+2017,7.3,fake,The Norse Case Scenario,6
+2017,7.7,fake,The People vs. Fred Jones,3
+2017,5.6,fake,LEGO Scooby-Doo! Blowout Beach Bash,9
+2017,8.2,fake,Some Fred Time,3
+2017,7.5,fake,There Wolf,3
+2017,7.4,fake,Renn Scare,3
+2017,7.6,fake,How to Train Your Coward,3
+2017,7.1,fake,Worst in Show,4
+2017,7.5,fake,Mysteries on the Disorient Express,4
+2017,7.4,fake,Halloween,3
+2017,7.5,fake,The Curse of Kaniaku,4
+2017,6.6,fake,Vote Velma,5
+2017,7.7,fake,Scroogey Doo,4
+2017,8,fake,In Space,3
+2017,7.9,fake,Doo Not Distrub,2
+2017,7.4,fake,Silver Scream,5
+2017,7.2,fake,Fright of Hand,3
+2017,6.7,fake,Greece in the World,4
+2018,6.6,fake,Batman: The Brave and the Bold: Bat-Mite Presents: Batman's Strangest Cases!,15
+2018,7.1,fake,American Goth,4
+2018,7.2,fake,Omelettes Are Forever,4
+2018,7.4,fake,Ghost in the Mystery Machine,4
+2018,7.4,fake,Naughty or Ice,3
+2018,7.3,fake,Night of the Upsetting Shorts,5
+2018,6.9,fake,Junkyard Dogs,3
+2018,6.7,fake,Protein Titans 2,4
+2018,6.9,fake,World of Witchcraft,4
+2018,7.8,fake,Professor Huh? Part 1,5
+2018,7.9,fake,Professor Huh? Part 6 3/4,3
+2018,6.8,fake,Pizza O'Possumm's,3
+2018,6.8,fake,The Curse of Half-Beard's Booty,3
+2018,9.6,real,Scoobynatural,6
+2018,7.3,fake,Scooby-Doo! and the Gourmet Ghost,11
+2018,8.1,real,Monster Party,0
+2019,6.5,fake,Scooby-Doo! and the Curse of the 13th Ghost,4
+2019,7,fake,Revenge of the Swamp Monster,5
+2019,7.9,fake,A Mystery Solving Gang Divided,2
+2019,7.9,fake,Peebles' Pet Show of Terrible Terrors!,1
+2019,8.1,fake,"Elementary, My Dear Shaggy!",3
+2019,5.7,fake,Scooby-Doo! Return to Zombie Island,12
+2019,7.3,fake,Ollie Ollie In-Come Free!,3
+2019,8.1,fake,The Scooby of a Thousand Faces!,2
+2019,8.3,fake,The Cursed Cabinet of Professor Madds Markson,3
+2019,6.5,fake,When Urkel-Bots Go Bad!,4
+2019,7.5,fake,The Fastest Food Fiend!,3
+2019,7.5,fake,Attack of the Weird Al-Osaurus!,4
+2019,7.4,fake,"Now You Sia, Now You Don't!",5
+2019,7.4,fake,Quit Clowning!,4
+2019,8.7,fake,"What a Night, for a Dark Knight",3
+2019,6.4,fake,Cartoon Feud,0
+2020,5.7,fake,SCOOB!,5
+2020,8.1,fake,The Nightmare Ghost of Psychic U!,2
+2020,8.8,fake,"The Sword, the Fox and the Scooby-Doo!",3
+2020,7.9,fake,One Minuite Mysteries!,1
+2020,8.1,fake,Hollywood Knights!,4
+2020,7.8,fake,The New York Underground!,4
+2020,7.7,fake,Fear the Fire Beast!,3
+2020,8.2,fake,Too Many Dummies!,6
+2020,7.6,fake,Dance Matron of Mayhem,2
+2020,8.6,fake,The Wedding Witch of Wainsly Hall!,3
+2020,7.9,fake,A Run Cycle Through Time!,0
+2020,8.4,fake,I Put a Hex on You!,3
+2020,7.6,fake,The High School Wolfman's Musical Lament!,4
+2020,8.2,fake,Space Station Scooby,4
+2020,6.3,fake,"Happy Halloween, Scooby-Doo!",5
+2020,6.2,fake,Scooby-Doo! The Sword and the Scoob,8

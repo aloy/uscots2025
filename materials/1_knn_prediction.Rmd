@@ -3,9 +3,9 @@ title: "Prediction using KNN"
 author: "Jaime Davila and Adam Loy"
 date: "5/30/2025"
 output:
+  pdf_document: default
   html_document:
     code_download: true
-  pdf_document: default
 editor_options:
   chunk_output_type: console
 ---

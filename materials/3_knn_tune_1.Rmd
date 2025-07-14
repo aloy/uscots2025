@@ -2,8 +2,9 @@
 title: "Optimizing parameters using resampling"
 author: "Jaime Davila and Adam Loy"
 output:
+  html_document:
+    code_download: true
   pdf_document: default
-  html_document: default
 date: "2025-06-06"
 editor_options:
   chunk_output_type: console

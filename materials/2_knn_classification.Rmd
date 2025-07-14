@@ -3,8 +3,9 @@ title: "Classification using KNN"
 author: "Jaime Davila and Adam Loy"
 date: "Last updated:"
 output:
+  html_document:
+    code_download: true
   pdf_document: default
-  html_document: default
 editor_options:
   chunk_output_type: console
 ---
@@ -150,6 +151,13 @@ augment(knn_model, new_data = scooby_test)
 
 **Your turn 6**: The below code creates a table of the predicted class labels and the actual class labels. What is the accuracy of your model? Report both the numeric value and give an interpretation of what accuracy means.
 
+```{r}
+augment(knn_model, new_data = scooby_test) |>
+  count(monster_real, .pred_class)
+
+augment(knn_model, new_data = scooby_test) |>
+  conf_mat(truth = monster_real, estimate = .pred_class)
+```
 
 **Your turn 7**: Sensitivity is the proportion of true positives that are correctly identified (the true positive rate). 
 

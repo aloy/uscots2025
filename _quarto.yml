@@ -5,6 +5,27 @@ project:
 website:
   title: "Teaching statistical learning: An active approach using R and {tidymodels}"
 
+  sidebar:
+      pinned: true
+      align: center
+      tools:
+        - icon: github
+          href: https://github.com/posit-conf-2024/quarto-dashboards
+          text: "GitHub"
+        
+      style: docked
+      search: true
+      collapse-level: 2
+      contents:
+        - href: index.qmd
+          text: Home
+        - section: "Activities"
+          contents:
+            - href: materials/1_knn_prediction.Rmd
+            - href: materials/2_knn_classification.Rmd
+            - href: materials/3_knn_tune_1.Rmd
+            - href: materials/4_knn_tune_2.Rmd
+
 
 format:
   html:

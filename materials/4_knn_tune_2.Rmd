@@ -3,8 +3,9 @@ title: "Parameter Tuning: A KNN Example"
 author: "Jaime Davila and Adam Loy"
 date: "Last updated:"
 output:
+  html_document:
+    code_download: true
   pdf_document: default
-  html_document: default
 editor_options:
   chunk_output_type: console
 ---
@@ -28,7 +29,7 @@ By the end of this activity, you will be able to:
 
 Now that you know how to fit KNN models and how to conduct cross validation to estimate their out-of-bag performance, it's time to explore how to tune the parameters of a KNN model using the functionality of the {tidymodels} ecosystem.
 
-In this activity we'll revisit the Scooby Doo data set and use it to build a KNN model that predicts whether a monster is real or not. Our goal is to select the "best" value for the number of neighbors,`k`. To begin, let's load in the data and create our training and testing splits:
+In this activity we'll revisit the Scooby Doo data set and use it to build a KNN model that predicts whether a monster is real or not. Our goal is to select the "best" value for the number of neighbors, `k`. To begin, let's load in the data and create our training and testing splits:
 
 ```{r}
 scooby <- readr::read_csv("scooby.csv", col_types="ddfcd")

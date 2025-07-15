@@ -31,7 +31,7 @@ Our dataset contains the number of reported police incidents in Minneapolis in 2
 
 ```{r}
 ##Need to upload file
-mn_police_tbl <- read_csv("police_weekly.mn.csv") 
+mn_police_tbl <- read_csv("https://raw.githubusercontent.com/aloy/uscots2025/refs/heads/main/materials/police_weekly.mn.csv") 
 ```
 
 Our dataset only has three variables:

@@ -32,7 +32,7 @@ Now that you know how to fit KNN models and how to conduct cross validation to e
 In this activity we'll revisit the Scooby Doo data set and use it to build a KNN model that predicts whether a monster is real or not. Our goal is to select the "best" value for the number of neighbors, `k`. To begin, let's load in the data and create our training and testing splits:
 
 ```{r}
-scooby <- readr::read_csv("scooby.csv", col_types="ddfcd")
+scooby <- readr::read_csv("https://raw.githubusercontent.com/aloy/uscots2025/refs/heads/main/materials/scooby.csv", col_types="ddfcd")
 set.seed(1234)
 
 scooby_split <- initial_split(scooby, 

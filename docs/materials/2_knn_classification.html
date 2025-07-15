@@ -254,7 +254,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>This activity is inspired by the following blog post from <a href="https://juliasilge.com/blog/scooby-doo/">Julia Silge</a>. We will be using a data set collected from the popular animated series, Scooby Doo. Specifically, we’ll build a KNN model to predict whether a monster is real or not.</p>
 <p>To begin, you can load the data</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>scooby <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"scooby.csv"</span>, <span class="at">col_types =</span> <span class="st">"ddfcd"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>scooby <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"https://raw.githubusercontent.com/aloy/uscots2025/refs/heads/main/materials/scooby.csv"</span>, <span class="at">col_types =</span> <span class="st">"ddfcd"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>and take a <code>glimpse()</code> at it:</p>
 <div class="cell">

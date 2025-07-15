@@ -32,7 +32,7 @@ This activity is inspired by the following blog post from [Julia Silge](https://
 To begin, you can load the data 
 
 ```{r}
-scooby <- read_csv("scooby.csv", col_types = "ddfcd")
+scooby <- read_csv("https://raw.githubusercontent.com/aloy/uscots2025/refs/heads/main/materials/scooby.csv", col_types = "ddfcd")
 ```
 
 and take a `glimpse()` at it:

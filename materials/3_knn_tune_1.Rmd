@@ -28,7 +28,7 @@ tidymodels_prefer(quiet = TRUE)
 To start, let's load the Scooby-Doo dataset and quickly divide it into training and testing sets:
 
 ```{r}
-scooby <- read_csv("scooby.csv", col_types = "ddfcd")
+scooby <- read_csv("https://raw.githubusercontent.com/aloy/uscots2025/refs/heads/main/materials/scooby.csv", col_types = "ddfcd")
 
 set.seed(1234)
 scooby_split <- initial_split(scooby, prop = 0.75, strata = monster_real)
